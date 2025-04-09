@@ -10,5 +10,10 @@ Bestimmte Dateitypen[1] lassen sich in einem Fileviewer auswählen, die in ein T
 
 ![whatsup](img/whatsup.gif)
 
+## TODO
+
+* Multiple Dateiuntersützung
+* Bearbeiten und Speichern der Datei
+
 [1] Dateitypen:
 * .csv
